@@ -1,3 +1,5 @@
+// https://practice.geeksforgeeks.org/problems/84963d7b5b84aa24f7807d86e672d0f97f41a4b5/1
+
 class Solution {
 public:
     int solve(int a, int b, int c) {
